@@ -4,3 +4,18 @@ Synchronized keyword is used to resolve the data inconsistency problem.
 If method or block declared as synchronized then at a time only one thread is allowed to execute that method or
 block on the given object.
 
+
+
+The main method should be static for the reason--
+Method method should be static so that it can be executed without creating an instance of a class.
+
+What is the process of defining two or more methods within the same class that have the same name but different parameters declaration?
+Two or more methods can have same name as long as their parameters declaration is different, the methods are said to be overloaded
+ and process is called method overloading. Method overloading is a way by which Java implements polymorphism.
+
+Which of these is correct about passing an argument by call-by-value process?
+    When we pass an argument by call-by-value a copy of the argument is made into the formal parameter
+    of the subroutine and changes made on parameters of subroutine have no effect on original argument,
+    they remain the same.
+
+copy of argument is made into the formal parameter of the subroutines
