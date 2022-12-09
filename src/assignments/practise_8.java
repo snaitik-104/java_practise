@@ -14,4 +14,5 @@ public class practise_8 {
         }
     }
 
-
+//Since the length of the string is not zero and also the string is not null.
+// Hence the output of this program is “some”.
