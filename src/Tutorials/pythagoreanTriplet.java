@@ -2,7 +2,7 @@ package Tutorials;
 
 import java.util.Scanner;
 
-public class pythagoreanTriplet {
+public class  pythagoreanTriplet {
 
     public static boolean IsPythagorean(int a, int b , int c){
         int num1 = a*a;
