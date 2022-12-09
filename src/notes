@@ -1,0 +1,6 @@
+Switch statements checks for equality between the controlling variable and its constant cases.
+
+Synchronized keyword is used to resolve the data inconsistency problem.
+If method or block declared as synchronized then at a time only one thread is allowed to execute that method or
+block on the given object.
+
